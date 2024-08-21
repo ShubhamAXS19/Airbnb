@@ -1,9 +1,6 @@
 # Djangobnb - Fullstack Airbnb clone - Next.js 14 / React, Tailwind, Django, Django Rest Framework
 
-This repository is for the frontend part of my video tutorial series. You can find it here:
-[YOUTUBE PLAYLIST](https://www.youtube.com/playlist?list=PLpyspNLjzwBnP-906FBRP5qzB4YXjMvnT)
-
-## Things you will learn and implement
+## Tech Stack
 
 - Next.js 14
 - React
